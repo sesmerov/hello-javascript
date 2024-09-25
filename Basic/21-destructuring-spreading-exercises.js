@@ -75,3 +75,4 @@ let person2 = {...person}
 console.log(person2)
 
 // 10. Combina desestructuración y propagación
+
