@@ -1,3 +1,16 @@
+> **Sobre este fork:** este repositorio contiene mis prácticas del [curso Hello JavaScript de MoureDev](https://github.com/mouredev/hello-javascript), creado por **Brais Moure**.
+>
+> Mi aportación consiste en resolver ejercicios del curso para afianzar los fundamentos de JavaScript. Su finalidad es el aprendizaje; no es una aplicación productiva.
+
+Algunos ejercicios con soluciones propias:
+
+- [Funciones, arrays y cadenas de texto](Basic/17-functions-exercises.js).
+- [Clases, herencia y propiedades privadas](Basic/23-classes-exercises.js).
+
+Se conservan a continuación el README y los materiales originales del instructor, junto con la [licencia del repositorio](LICENSE).
+
+---
+
 # Hello JavaScript
 
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)](https://developer.mozilla.org/es/docs/Web/JavaScript) [![NodeJS](https://img.shields.io/badge/NODEJS-v20+-green?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=101010)](https://nodejs.org/)
